@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/CMake/area.h
+
+/workspaces/CMake/main.cpp
+iostream
+-
+cstdlib
+-
+area.h
+/workspaces/CMake/area.h
+

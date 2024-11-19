@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarea.a  CMakeFiles/area.dir/area.cpp.o
+/usr/bin/ranlib libarea.a

@@ -6,11 +6,3 @@
 
 #IncludeRegexTransform: 
 
-/workspaces/CMake/area.cpp
-area.h
-/workspaces/CMake/area.h
-cmath
--
-
-/workspaces/CMake/area.h
-

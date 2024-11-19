@@ -1,2 +1,1 @@
-/usr/bin/ar qc libarea.a  CMakeFiles/area.dir/area.cpp.o
-/usr/bin/ranlib libarea.a
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libarea.so -o libarea.so CMakeFiles/area.dir/area.cpp.o 

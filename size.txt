@@ -1,0 +1,8 @@
+size ./libarea.so(SHARED) and ./libarea.a(STATIC)
+text    data     bss     dec     hex       filename
+226       0       0     226      e2    area.cpp.o (ex ./libarea.a)
+1088     432       8    1528     5f8    ./libarea.so
+
+ll -h
+-rw-rw-rw-  1 codespace codespace 1.7K Nov 19 18:38 libarea.a
+-rwxrwxrwx  1 codespace codespace  16K Nov 19 19:09 libarea.so*

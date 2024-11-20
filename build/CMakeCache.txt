@@ -21,7 +21,7 @@ AreaCalculator_BINARY_DIR:STATIC=/workspaces/CMake/build
 AreaCalculator_SOURCE_DIR:STATIC=/workspaces/CMake
 
 //Build shared library
-BUILD_SHARED:BOOL=ON
+BUILD_SHARED:BOOL=OFF
 
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=/usr/bin/addr2line

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/area.dir/area.cpp.o"
+  "libarea.a"
   "libarea.pdb"
-  "libarea.so"
 )
 
 # Per-language clean rules from dependency scanning.
